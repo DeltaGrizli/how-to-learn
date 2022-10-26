@@ -234,6 +234,7 @@ flex-direction: column;
 .table__cell_theme_dark {
   max-width: 200px;
   color: white;
+  z-index: 1;
 }
 .section-title_theme_dark{
   color: white;
@@ -244,10 +245,6 @@ flex-direction: column;
   color: white;
 }
 .table__cell_theme_dark{
-  color: white;
-  z-index: 1;
-}
-.table__text_theme_dark{
   color: white;
 }
 /*------------5 секция-------------*/
