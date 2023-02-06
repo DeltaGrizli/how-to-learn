@@ -1,13 +1,14 @@
-.footer__column-link{
-    display: flex;
-    align-items: center;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-    color: white;
-    text-decoration: none;
-    transition: opacity .4s ease-in-out;
-  }
-  .footer__column-link:hover{
-    opacity: 0.5;
-  }
+.footer__column-link {
+  display: flex;
+  align-items: center;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  text-decoration: none;
+  transition: opacity .4s ease-in-out;
+}
+
+.footer__column-link:hover {
+  opacity: 0.5;
+}
